@@ -1,6 +1,7 @@
 <h1>Hi, I'm Alana</h1>
 
-![ALANA GREENAWAY](https://user-images.githubusercontent.com/104283714/194674856-f99a9ae7-d5e0-4211-81b9-71cf8b2fa7c4.png)
+![ALANA GREENAWAY](https://user-images.githubusercontent.com/104283714/194675064-a3d22a36-194d-4f15-90ae-fa224ee65f91.png)
+
 
 I'm a New York based aspiring software engineer passionate about using programming as a tool for problem solving. I love with engaging with new and exciting open source projects as well as making tech education more accessible to all people!
 
