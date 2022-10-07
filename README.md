@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alana<h1>
+<h1>Hi, I'm Alana</h1>
 
 I'm a New York based aspiring software engineer passionate about using programming as a tool for problem solving. I love with engaging with new and exciting open source projects as well as making tech education more accessible to all people!
 
