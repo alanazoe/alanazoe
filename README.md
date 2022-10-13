@@ -7,7 +7,7 @@ I'm a New York based aspiring software engineer. I am currently attending Columb
 
 <!--passionate about using programming as a tool for problem solving. I love with engaging with new and exciting open source projects as well as making tech education more accessible to all people!-->
 
-My favorite languages are Java, Python, and C.
+<!--My favorite languages are Java, Python, and C.-->
 
 
 <!---
